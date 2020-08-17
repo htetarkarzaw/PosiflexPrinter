@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./printer/libs/LanPP.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/printer/libs/LanPP.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

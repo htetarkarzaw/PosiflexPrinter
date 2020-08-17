@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./printer/libs/SaudiSoft.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/printer/libs/SaudiSoft.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
